@@ -1,0 +1,82 @@
+body {
+    background: linear-gradient(#737909, #00d4ff);
+}
+
+.h3_heading {
+    font-size: 30px;
+    font-family: 'Pacifico', cursive;
+    width: 85%;
+    border-radius: 7px;
+    background: orange;
+    color: white;
+    border: 3px solid black;
+}
+
+img {
+    width: 400px;
+    height: 350px;
+}
+
+.h4_body {
+    font-size: 30px;
+    font-family: 'Pacifico', cursive;
+    width: 85%;
+    border-radius: 7px;
+    background: orange;
+    color: white;
+    border: 3px solid black;
+}
+
+.note {
+    font-size: 25px;
+    font-family: 'Pacifico', cursive;
+    width: 85%;
+    border-radius: 7px;
+    background: orange;
+    color: white;
+    border: 3px solid black;
+}
+
+.copy_right_footer {
+    background: orange;
+    font-size: 20px;
+    font-family: 'Pacifico', cursive;
+    margin-top: 230px;
+    color: white;
+    border: 3px solid black;
+    border-radius: 5px;
+}
+
+.h3_heading:hover {
+    cursor: pointer;
+    color: red;
+}
+
+.h4_body:hover {
+    cursor: pointer;
+    color: red;
+}
+
+.copy_right_footer:hover {
+    cursor: pointer;
+    color: red;
+}
+
+.note:hover {
+    cursor: pointer;
+    color: red;
+}
+
+.know_about_diwali_festival {
+    font-family: 'Pacifico', cursive;
+    background: orange;
+    font-size: 17px;
+    color: white;
+    border-radius: 5px;
+    border: 3px solid black;
+}
+
+.know_about_diwali_.know_about_diwali_festival:hover {
+    cursor: pointer;
+    color: red;
+}
